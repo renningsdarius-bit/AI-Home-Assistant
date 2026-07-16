@@ -19,7 +19,7 @@ Auch wenn die Spracheingabe noch in Arbeit ist, steht das gesamte "Gehirn" des A
 
 ---
 
-## 🛠️ Technische Herausforderungen (Hardware-Limits)
+##  Technische Herausforderungen (Hardware-Limits)
 
 Da ich mich strikt gegen Cloud-APIs (wie OpenAI) entschieden habe, muss der Pi 4B das Sprachmodell selbst berechnen. Das war die größte Hürde:
 
@@ -28,7 +28,7 @@ Da ich mich strikt gegen Cloud-APIs (wie OpenAI) entschieden habe, muss der Pi 4
 
 ---
 
-## 📂 Code-Architektur (Modularer Aufbau)
+## Code-Architektur (Modularer Aufbau)
 
 Um Spaghetti-Code zu vermeiden, ist das Projekt in logische Module unterteilt:
 
@@ -41,7 +41,7 @@ Um Spaghetti-Code zu vermeiden, ist das Projekt in logische Module unterteilt:
 
 ---
 
-## 🚀 Ausblick & Roadmap (Was noch geplant ist)
+##  Ausblick & Roadmap (Was noch geplant ist)
 
 Das System ist als erweiterbares MVP (Minimum Viable Product) gedacht. Als Nächstes ist geplant:
 
