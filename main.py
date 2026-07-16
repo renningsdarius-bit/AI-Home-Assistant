@@ -3,7 +3,9 @@ from actions import turn_on, turn_off
 from llm import ask_llm
 from knowledge import get_knowledge
 
-print("🚀 Assistant Core gestartet")
+# TODO: Router verbessern, "licht" triggert aktuell auch bei "Wie funktioniert Licht?"
+
+print(" Assistant Core gestartet")
 
 while True:
     text = input("Du: ")

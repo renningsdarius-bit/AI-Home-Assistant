@@ -1,6 +1,6 @@
 import requests
 
-MODEL = "qwen2.5:3b-instruct"
+MODEL = "llama3.2:1b"
 
 def ask_llm(question, context=""):
     try:
@@ -14,7 +14,7 @@ def ask_llm(question, context=""):
                 ],
                 "stream": False
             },
-            timeout=120
+            timeout=120             #evtl. Anpassung, im Idealfall 20 max
         )
 
         print("DEBUG STATUS:", r.status_code)

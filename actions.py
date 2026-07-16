@@ -8,6 +8,7 @@ HEADERS = {
     "Authorization": f"Bearer {HA_TOKEN}",
     "Content-Type": "application/json"
 }
+# TODO: Später SSL/HTTPS einrichten, wenn HA von außen erreichbar ist
 
 def call_ha(domain, service, entity_id):
     try:
