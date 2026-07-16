@@ -1,0 +1,27 @@
+[2026-05-31 21:56:56.620374] [INPUT] mach licht an
+[2026-05-31 21:56:56.623874] [ROUTE] device
+[2026-05-31 21:56:56.645994] [ACTION] turn_on light.livingroom
+[2026-05-31 21:57:04.626146] [INPUT] mach licht aus
+[2026-05-31 21:57:04.626759] [ROUTE] device
+[2026-05-31 21:57:04.643275] [ACTION] turn_off light.livingroom
+[2026-05-31 21:57:17.329173] [INPUT] Wer war Napoleon?
+[2026-05-31 21:57:17.329666] [ROUTE] llm
+[2026-05-31 22:04:17.980699] [INPUT] Wie ghoch ist der Kölner Dom?
+[2026-05-31 22:04:17.981278] [ROUTE] llm
+[2026-05-31 22:05:25.453066] [INPUT] Wie hoch ist der Kölner dom?
+[2026-05-31 22:05:25.453659] [ROUTE] llm
+[2026-06-01 21:48:55.713816] [INPUT] Mach licht an
+[2026-06-01 21:48:55.715168] [ROUTE] device
+[2026-06-01 21:48:55.730132] [ACTION] turn_on light.livingroom
+[2026-06-01 21:49:00.204732] [INPUT] mach licht aus
+[2026-06-01 21:49:00.205340] [ROUTE] device
+[2026-06-01 21:49:00.222667] [ACTION] turn_off light.livingroom
+[2026-06-01 21:49:02.423498] [INPUT] hallo
+[2026-06-01 21:49:02.424255] [ROUTE] simple
+[2026-06-01 21:49:09.106664] [INPUT] Wer war Napoleon
+[2026-06-01 21:49:09.107543] [ROUTE] llm
+[2026-06-01 21:53:38.836898] [INPUT] Uhrzeit?
+[2026-06-01 21:53:38.837554] [ROUTE] llm
+[2026-06-01 22:01:26.849385] [INPUT] Wie groß ist Deutschland?
+[2026-06-01 22:01:26.850281] [ROUTE] llm
+[2026-06-02 20:56:13.829019] [ACTION] turn_on light.livingroom
