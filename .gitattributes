@@ -1,1 +1,1 @@
-get-docker.sh vendored
+get-docker.sh linguist-documentation=false linguist-vendored=true linguist-generated=true
