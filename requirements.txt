@@ -1,2 +1,5 @@
+SpeechRecognition
+pyttsx3
 requests
-ddgs
+python-dotenv
+edge-tts

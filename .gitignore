@@ -1,5 +1,5 @@
 .env
-config.py
 __pycache__/
 *.pyc
-alle_dateien.txt
+*.mp3
+.DS_Store
